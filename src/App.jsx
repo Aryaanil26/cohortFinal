@@ -1,5 +1,4 @@
 import { RouterProvider } from "react-router-dom";
-import { Home }  from "./pages/home";
 import { router } from "./routes/Routes";
 import {Toaster} from 'react-hot-toast';
 

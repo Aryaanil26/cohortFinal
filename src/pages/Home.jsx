@@ -33,8 +33,6 @@
 // export default Home;
 
 import React from "react";
-import { Header } from "../components/Header";
-import { Footer } from "../components/Footer";
 import { SampleCards, SampleCards2, SampleCards3 } from "../components/Cards";
 
 

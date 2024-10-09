@@ -1,15 +1,3 @@
-// import React from 'react';
-
-// function Reviews(props){
-//     return(
-//         <main>
-//             Reviews
-//         </main>
-//     );
-// }
-
-// export default Reviews;
-
 import React, { useEffect, useState } from "react";
 import { axiosInstance } from "../config/axiosInstance";
 import { ReviewCards, SampleCards } from "../components/Cards";
